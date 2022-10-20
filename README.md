@@ -19,7 +19,21 @@ VS Code is a great IDE for any programming language and Flutter is no exception.
 Flutter has some great extensions on the VS Code marketplace that speed up some of the development process. A few notable extensions are:
 
 
-React Native Snippet
+-React Native
+-JavaScript
+
+How to use it?
+
+Step 1:
+
+Download or clone this repo by using the link below:
+
+https://github.com/MalekBens/UberApp.git
 
 
-React Native Cli
+
+Step 2:
+
+Go to project root and execute the following command in console to get the required dependencies:
+
+npm install
